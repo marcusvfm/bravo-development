@@ -29,7 +29,7 @@
                 </form>
             </article>
             <article class="main_contact_alternative">
-                <p>A BravoCode é uma agência focada em solucionar seus problemas nos meios digitais. Se seu objetivo é alavancar
+                <p>A Sua Agência é uma agência focada em solucionar seus problemas nos meios digitais. Se seu objetivo é alavancar
                     sua empresa na internet, você está no lugar certo! Converse conosco e veja o que podemos fazer por
                     você. :-)</p>
                 <div class="main_contact_alternative_now">
